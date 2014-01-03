@@ -5,6 +5,7 @@ Description: Stores Taxonomies Metadata from Advanced Custom Fields plugin setti
 Author: Joan Artés
 Version: 1.0
 Author URI: http://joanartes.com/
+License: GPLv2 or later
 */
 
 function acf_autoload( $value, $post_id, $field ) {
